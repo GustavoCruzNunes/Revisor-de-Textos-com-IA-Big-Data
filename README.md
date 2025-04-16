@@ -1,14 +1,12 @@
-<h1 align="center"> Projeto Integrador - ONG For All </h1>
-<p align="center">Uma aplicação em nodeJS puro com integração de APIs e microsserviços</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,tailwind,prisma,&theme=light" />
-  </a>
-</p>
-
 ## Introdução
-O Projeto Integrador - ONG For All visa conectar potenciais doadores a ONGs que necessitam de apoio, enfrentando desafios como a baixa visibilidade das ONGs e a dificuldade dos doadores em encontrar organizações confiáveis. A solução proposta é uma plataforma digital que facilita as doações, promovendo transparência e facilitando a escolha de organizações alinhadas aos interesses dos doadores. Este projeto busca fomentar a solidariedade e aumentar o impacto social das ONGs.
+OObjetivo
+Criar uma aplicação simples onde o usuário insere um texto e recebe:
+
+Correções gramaticais e ortográficas automáticas;
+
+Sugestões de reescrita para tornar o texto mais claro, objetivo ou formal;
+
+Um feedback estatístico baseado em um banco de dados de bons textos (Big Data)..
 
 ## Requisitos
 Antes de iniciar o projeto, você precisa ter os seguintes requisitos:
